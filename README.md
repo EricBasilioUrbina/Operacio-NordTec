@@ -1,5 +1,5 @@
 <!-- Operación Nord Tec (Eric Basilio Urina ASIX 1A) -->
-Operación Nord Tec (Eric Basilio Urina ASIX 1A)
+# Operación Nord Tec (Eric Basilio Urina ASIX 1A)
 
 
 
@@ -7,7 +7,7 @@ Operación Nord Tec (Eric Basilio Urina ASIX 1A)
 
 
 <!-- Indice -->
-Indice:
+# Indice:
 
 ·
 
@@ -16,14 +16,14 @@ Indice:
 
 
 <!-- Estado del proyecto -->
-Estado del proyecto:
+# Estado del proyecto:
 
 
-Nombre del proyecto:
+## Nombre del proyecto:
 
-Fecha de entrega: 
+## Fecha de entrega: 
 
-Estado:
+## Estado:
 
 {}Pendiente
 
@@ -40,7 +40,7 @@ Estado:
 
 
 <!-- Arquitectura de red -->
-Arquitectura de red:
+## Arquitectura de red:
 
 ·
 
@@ -48,7 +48,7 @@ Arquitectura de red:
 
 <!-- Configuracion -->
 
-Configuracion:
+## Configuracion:
 
 ·
 
@@ -56,7 +56,7 @@ Configuracion:
 
 
 <!-- Incidencias y Soluciones -->
-Incidencias y Soluciones:
+## Incidencias y Soluciones:
 
 ·
 
@@ -64,7 +64,7 @@ Incidencias y Soluciones:
 
 
 <!-- Mensajes de erorr exacto -->
-Mensajes de erorr exacto:
+## Mensajes de erorr exacto:
 
 ·
 
@@ -72,7 +72,7 @@ Mensajes de erorr exacto:
 
 
 <!-- Fecha -->
-Fecha: 
+## Fecha: 
 
 Fase:
 
@@ -83,7 +83,7 @@ Mini contexto:
 
 
 <!-- Causa -->
-Causa:
+## Causa:
 
 ·
 
@@ -91,7 +91,7 @@ Causa:
 
 
 <!-- Soluciones -->
-Soluciones:
+## Soluciones:
 
 ·
 
@@ -99,7 +99,7 @@ Soluciones:
 
 
 <!-- Destacada por/encontrada por -->
-Destacada por/encontrada por:
+## Destacada por/encontrada por:
 
 @
 
@@ -107,7 +107,7 @@ Destacada por/encontrada por:
 
 
 <!-- Decisiones Tecnicas: -->
-Decisiones Tecnicas:
+## Decisiones Tecnicas:
 
 ·Que hemos escogido:
 
@@ -121,7 +121,7 @@ Decisiones Tecnicas:
 
 
 <!-- Reflexiones Tecnicas -->
-Reflexiones Tecnicas:
+## Reflexiones Tecnicas:
 
 ·
 

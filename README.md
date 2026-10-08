@@ -21,10 +21,15 @@ Estado del proyecto:
 Nombre del proyecto:
 Fecha de entrega:
 Estado:
-{}Pendiente 
+
+{}Pendiente
+
 {X} Commenzado
+
 {} Voy por la mitad
+
 {}A punto de apunto de finalizarlo
+
 {}Acabado
 
 
@@ -115,3 +120,15 @@ Decisiones Tecnicas:
 Reflexiones Tecnicas:
 
 ·
+
+
+
+
+
+
+
+# 0.git init 
+# 1.Cntl S
+# 2. git add README.md
+# 3. git commit -m ""
+# 4. git push

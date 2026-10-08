@@ -6,8 +6,8 @@ Operación Nord Tec (Eric Basilio Urina ASIX 1A)
 
 
 
-## Índex ##
-Indice:
+
+2. Indice:
 
 ·
 
@@ -127,10 +127,4 @@ Reflexiones Tecnicas:
 
 
 
-
-
-\\ 0.git init \\  
-\\ 1.Cntl S \\
-\\ git add README.md \\
-\\ 3. git commit -m "" \\
-\\4. git push \\
+<!-- HOLA -->

@@ -19,7 +19,9 @@ Indice:
 Estado del proyecto:
 
 Nombre del proyecto:
-Fecha de entrega:
+
+Fecha de entrega: 
+
 Estado:
 
 {}Pendiente
@@ -127,8 +129,8 @@ Reflexiones Tecnicas:
 
 
 
-# 0.git init 
-# 1.Cntl S
-# 2. git add README.md
-# 3. git commit -m ""
-# 4. git push
+\\ 0.git init \\  
+\\ 1.Cntl S \\
+\\ git add README.md \\
+\\ 3. git commit -m "" \\
+\\4. git push \\

@@ -125,12 +125,12 @@ Mini contexto:
 
 ·
 
-
+Ultima actulización: 08/10/2026
 
 
 
 <!-- 1. SAVE -->
 <!-- 2. git add README.md -->
-<!-- 3. commit -m "Esquema README1.1 -->
+<!-- 3. git commit -m "Esquema README1.1 -->
 <!-- 4. git push -->
 

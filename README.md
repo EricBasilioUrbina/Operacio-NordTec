@@ -1,4 +1,4 @@
-## Titulo ##
+<!-- Operación Nord Tec (Eric Basilio Urina ASIX 1A) -->
 Operación Nord Tec (Eric Basilio Urina ASIX 1A)
 
 
@@ -6,8 +6,8 @@ Operación Nord Tec (Eric Basilio Urina ASIX 1A)
 
 
 
-
-2. Indice:
+<!-- Indice -->
+Indice:
 
 ·
 
@@ -15,8 +15,9 @@ Operación Nord Tec (Eric Basilio Urina ASIX 1A)
 
 
 
-## Estado del proyecto ##
+<!-- Estado del proyecto -->
 Estado del proyecto:
+
 
 Nombre del proyecto:
 
@@ -38,14 +39,15 @@ Estado:
 
 
 
-## Arquitectura de red ##
+<!-- Arquitectura de red -->
 Arquitectura de red:
 
 ·
 
 
 
-## Configuracion ##
+<!-- Configuracion -->
+
 Configuracion:
 
 ·
@@ -53,7 +55,7 @@ Configuracion:
 
 
 
-## Incidencias y Soluciones ##
+<!-- Incidencias y Soluciones -->
 Incidencias y Soluciones:
 
 ·
@@ -61,7 +63,7 @@ Incidencias y Soluciones:
 
 
 
-
+<!-- Mensajes de erorr exacto -->
 Mensajes de erorr exacto:
 
 ·
@@ -69,7 +71,7 @@ Mensajes de erorr exacto:
 
 
 
-
+<!-- Fecha -->
 Fecha: 
 
 Fase:
@@ -80,7 +82,7 @@ Mini contexto:
 
 
 
-
+<!-- Causa -->
 Causa:
 
 ·
@@ -88,7 +90,7 @@ Causa:
 
 
 
-
+<!-- Soluciones -->
 Soluciones:
 
 ·
@@ -96,7 +98,7 @@ Soluciones:
 
 
 
-
+<!-- Destacada por/encontrada por -->
 Destacada por/encontrada por:
 
 @
@@ -104,7 +106,7 @@ Destacada por/encontrada por:
 
 
 
-
+<!-- Decisiones Tecnicas: -->
 Decisiones Tecnicas:
 
 ·Que hemos escogido:
@@ -118,7 +120,7 @@ Decisiones Tecnicas:
 
 
 
-
+<!-- Reflexiones Tecnicas -->
 Reflexiones Tecnicas:
 
 ·
@@ -127,4 +129,8 @@ Reflexiones Tecnicas:
 
 
 
-<!-- HOLA -->
+<!-- 1. SAVE -->
+<!-- 2. git add README.md -->
+<!-- 3. commit -m "Esquema README1.1 -->
+<!-- 4. git push -->
+

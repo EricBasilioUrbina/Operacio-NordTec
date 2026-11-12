@@ -1,0 +1,22 @@
+network: 
+  version: 2
+  ethernets:
+    eth0:
+      dhcp4: true
+    eth1:
+      dhcp4: true
+    #kali
+    enp0s3:
+      dhcp4: false
+      addresses:
+        - 10.0.0.1/24
+    #dmz
+    enp0s8:
+      dhcp4: false
+      addresses:
+        - 192.168.1.10/24
+    #lan
+    enp0s9:
+      dhcp4: false
+      addresses:
+        - 192.168.20.1/24
